@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+ <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#15234f"/><stop offset="1" stop-color="#3869a4"/></linearGradient><linearGradient id="cloud" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#a9f6ff"/></linearGradient></defs>
+ <rect width="512" height="512" rx="112" fill="url(#sky)"/>
+ <circle cx="390" cy="105" r="36" fill="#ffe58a" opacity=".95"/>
+ <path d="M48 340c0-35 29-63 64-63 11-53 57-91 111-91 42 0 78 24 97 59 13-9 28-14 45-14 43 0 78 35 78 78s-35 78-78 78H112c-35 0-64-21-64-47z" fill="url(#cloud)"/>
+ <path d="M111 385h291" stroke="#7ef6ff" stroke-width="15" stroke-linecap="round" opacity=".8"/>
+ <g transform="translate(256 246)"><path d="M-54 48l-27 31 42 2 14-28M54 48l27 31-42 2-14-28" fill="#ff8bd7" stroke="#fff0f8" stroke-width="6" stroke-linejoin="round"/><rect x="-58" y="-44" width="116" height="112" rx="42" fill="#fff0cf" stroke="#fff" stroke-width="7"/><rect x="-45" y="-28" width="90" height="65" rx="30" fill="#8ffaff"/><circle cx="-19" cy="1" r="7" fill="#172754"/><circle cx="19" cy="1" r="7" fill="#172754"/><path d="M-12 18q12 12 24 0" fill="none" stroke="#172754" stroke-width="6" stroke-linecap="round"/></g>
+ <text x="256" y="462" font-family="Arial,sans-serif" font-size="54" font-weight="900" text-anchor="middle" fill="#fff">SKYHOP</text>
+</svg>

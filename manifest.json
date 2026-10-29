@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "SKYHOP: Cloudbound",
+  "short_name": "SKYHOP",
+  "description": "An endless offline jumping adventure.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101a3b",
+  "theme_color": "#101a3b",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
